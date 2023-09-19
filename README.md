@@ -6,4 +6,6 @@ Data storytelling is the process of using data to tell a story. It is about usin
 
 Power BI and Tableau are both data visualization tools. They can be used to create a variety of visualizations, such as charts, graphs, and maps. These visualizations can be used to communicate data in a clear and concise way.
 
-![My image](my-image.png)
+![My image](https://github.com/SheikhSarvar/Data-Visualization/blob/main/Dashboard%202%20(1).png)
+
+! [My_image](https://github.com/SheikhSarvar/Data-Visualization/blob/main/Dashboard%203.png)
